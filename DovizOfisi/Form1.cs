@@ -60,6 +60,7 @@ namespace DovizOfisi
 
         private void buttonSatisYap_Click(object sender, EventArgs e)
         {
+            
             double kur, miktar, tutar;
 
             kur = Convert.ToDouble(textBoxKur.Text);
