@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passaparola", "Passaparola\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizOfisi", "DovizOfisi\DovizOfisi.csproj", "{2F987F4B-FE30-4380-8B74-3114F767F3FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieArchive", "MovieArchive\MovieArchive.csproj", "{8C162127-C644-4727-829E-5BDBA2A83719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2F987F4B-FE30-4380-8B74-3114F767F3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F987F4B-FE30-4380-8B74-3114F767F3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F987F4B-FE30-4380-8B74-3114F767F3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C162127-C644-4727-829E-5BDBA2A83719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C162127-C644-4727-829E-5BDBA2A83719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C162127-C644-4727-829E-5BDBA2A83719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C162127-C644-4727-829E-5BDBA2A83719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
