@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieArchive", "MovieArchiv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6", "Project6\Project6.csproj", "{821F7C15-0DD2-4CB6-A04D-92F65AEC05FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeOgren", "KelimeOgren\KelimeOgren.csproj", "{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{821F7C15-0DD2-4CB6-A04D-92F65AEC05FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{821F7C15-0DD2-4CB6-A04D-92F65AEC05FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{821F7C15-0DD2-4CB6-A04D-92F65AEC05FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

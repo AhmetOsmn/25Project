@@ -67,10 +67,7 @@ namespace Project6
 
         #endregion
         private System.Windows.Forms.BindingSource proje6BindingSource;
-        private System.Windows.Forms.DataGridViewTextBoxColumn aDDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn aDSOYADDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn aD1DataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn fIYATDataGridViewTextBoxColumn;
+
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
