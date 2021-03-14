@@ -67,8 +67,11 @@ namespace PartiSecimGrafik
                 labelC.Text = dr[4].ToString();
                 labelD.Text = dr[5].ToString();
                 labelE.Text = dr[6].ToString();
+
             }
             baglanti.Close();
         }
+
+ 
     }
 }
