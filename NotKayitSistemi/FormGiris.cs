@@ -34,5 +34,11 @@ namespace NotKayitSistemi
                 formOgretmenDetay.Show();
             }
         }
+
+        private void FormGiris_Load(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }

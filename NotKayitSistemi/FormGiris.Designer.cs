@@ -75,6 +75,7 @@ namespace NotKayitSistemi
             this.Controls.Add(this.label1);
             this.Name = "FormGiris";
             this.Text = "Ogrenci Kayit Sistemi";
+            this.Load += new System.EventHandler(this.FormGiris_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
