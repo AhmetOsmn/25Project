@@ -21,6 +21,7 @@ namespace Project6
         SqlConnection baglanti = new SqlConnection(@"Data Source=4HMT;Initial Catalog=Proje6;Integrated Security=True");
         private void Form1_Load(object sender, EventArgs e)
         {
+
             SqlDataAdapter da = new SqlDataAdapter("Execute P6",baglanti);
             DataTable dt = new DataTable();
             da.Fill(dt);
