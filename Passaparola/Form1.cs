@@ -31,10 +31,12 @@ namespace Passaparola
                 linkLabelBasla.Enabled = false;
         }
 
+
         string[] cevaplar =
         {
             "","akdeniz","bursa","cami","diyarbakır","eski","ferman", "güneş","halı","ısparta","içel","jandarma", "kayısı", 
             "lale", "mart", "ney", "ozan","pırasa","ramazan","snake","tarkan","umut","van","yıldırım","zeytin"
+
         };
 
         

@@ -62,10 +62,10 @@ namespace Passaparola
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -381,6 +381,16 @@ namespace Passaparola
             this.label2.TabIndex = 6;
             this.label2.Text = "Yanlis:";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label6.Location = new System.Drawing.Point(276, 61);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(35, 37);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "0";
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -410,16 +420,6 @@ namespace Passaparola
             this.label1.Size = new System.Drawing.Size(114, 37);
             this.label1.TabIndex = 6;
             this.label1.Text = "Dogru:";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(276, 61);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(35, 37);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "0";
             // 
             // Form1
             // 
