@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotKayitSistemi", "NotKayitSistemi\NotKayitSistemi.csproj", "{FE905EC3-3083-4C53-8538-35017A9D1726}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6", "Project6\Project6.csproj", "{821F7C15-0DD2-4CB6-A04D-92F65AEC05FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeOgren", "KelimeOgren\KelimeOgren.csproj", "{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.NesnelerinHareketi", "8.NesnelerinHareketi\8.NesnelerinHareketi.csproj", "{C601F09F-A5BD-407A-9384-CEA3E0480D68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7147D7FF-CD60-4CE3-96EA-665D70F8F6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C601F09F-A5BD-407A-9384-CEA3E0480D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601F09F-A5BD-407A-9384-CEA3E0480D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601F09F-A5BD-407A-9384-CEA3E0480D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601F09F-A5BD-407A-9384-CEA3E0480D68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
