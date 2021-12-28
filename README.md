@@ -30,3 +30,8 @@
 ## 7. İngilizce Kelime Öğrenme Oyunu
 ---
 ![7  kelimeogren](https://user-images.githubusercontent.com/44196434/114156923-c1437880-992b-11eb-8cc1-47b530d1619f.png)
+
+## 8. 2 Boyutta Nesnelerin Hareketleri
+---
+![8 NesnelerinHareketi](https://user-images.githubusercontent.com/44196434/147612104-a6906dac-239b-42c1-8242-c7130c34a107.png)
+
