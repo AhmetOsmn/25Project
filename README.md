@@ -39,3 +39,8 @@
 ---
 ![TelefonRehber](https://user-images.githubusercontent.com/44196434/147697988-ad5321d4-2c1a-4f78-8523-6935a9b31127.png)
 
+## 10. İlişkili Tablolar Uygulaması
+---
+![10 IliskiliTablolarUygulamasi](https://user-images.githubusercontent.com/44196434/147703491-a985ef10-fa8b-48ab-9788-577c492f8a3e.png)
+
+
