@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.NesnelerinHareketi", "8.N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.TelefonRehber", "9.TelefonRehber\9.TelefonRehber.csproj", "{AD199695-9F00-4236-9943-3637C3F65D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.IliskiliTablolarUygulamasi", "10.IliskiliTablolarUygulamasi\10.IliskiliTablolarUygulamasi.csproj", "{D59DA489-FFA5-49BC-8F74-8CE367FEC2DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{AD199695-9F00-4236-9943-3637C3F65D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD199695-9F00-4236-9943-3637C3F65D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD199695-9F00-4236-9943-3637C3F65D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59DA489-FFA5-49BC-8F74-8CE367FEC2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59DA489-FFA5-49BC-8F74-8CE367FEC2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59DA489-FFA5-49BC-8F74-8CE367FEC2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59DA489-FFA5-49BC-8F74-8CE367FEC2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
