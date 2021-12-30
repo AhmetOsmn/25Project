@@ -47,4 +47,9 @@
 ---
 ![11 KullanicilarArasiMesajlasmaSistemi](https://user-images.githubusercontent.com/44196434/147709569-e810ae31-9a9d-4efb-aa43-d263a68037f4.png)
 
+## 12. Mini SQL Derleyicisi
+---
+![12 MiniSQLDerleyicisi](https://user-images.githubusercontent.com/44196434/147792082-89e7419a-e226-4a8b-8c93-533729cf1876.png)
+
+
 
