@@ -51,5 +51,9 @@
 ---
 ![12 MiniSQLDerleyicisi](https://user-images.githubusercontent.com/44196434/147792082-89e7419a-e226-4a8b-8c93-533729cf1876.png)
 
+## 13. Verileri Şifreleme ve Çözme
+---
+![13 VeriSifreleme](https://user-images.githubusercontent.com/44196434/147795648-e15d1291-9473-4469-86b9-978d77e23fbe.png)
+
 
 
