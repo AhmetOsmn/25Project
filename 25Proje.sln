@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.VeriSifreleme", "13.Veri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.BankamatikSimulasyonu", "14.BankamatikSimulasyonu\14.BankamatikSimulasyonu.csproj", "{259574B6-D459-4FF8-9AF6-5FD7D20222A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.EtutDersKayitSistemi", "15.EtutDersKayitSistemi\15.EtutDersKayitSistemi.csproj", "{871CA48B-6DF7-4DF5-AFA0-69664334CF1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871CA48B-6DF7-4DF5-AFA0-69664334CF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871CA48B-6DF7-4DF5-AFA0-69664334CF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871CA48B-6DF7-4DF5-AFA0-69664334CF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871CA48B-6DF7-4DF5-AFA0-69664334CF1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
