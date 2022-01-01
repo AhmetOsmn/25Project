@@ -55,5 +55,7 @@
 ---
 ![13 VeriSifreleme](https://user-images.githubusercontent.com/44196434/147795648-e15d1291-9473-4469-86b9-978d77e23fbe.png)
 
-
+## 14. Bankamatik Simülasyonu
+---
+![14 BankamatikSimulasyonu](https://user-images.githubusercontent.com/44196434/147842120-b99a6d89-f31b-43d6-8b0f-943289cddadd.png)
 
