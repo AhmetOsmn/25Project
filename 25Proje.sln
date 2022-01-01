@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.MiniSQLDerleyicisi", "12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.VeriSifreleme", "13.VeriSifreleme\13.VeriSifreleme.csproj", "{C52900A8-D9E5-4487-BD0A-8F33B265A9F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.BankamatikSimulasyonu", "14.BankamatikSimulasyonu\14.BankamatikSimulasyonu.csproj", "{259574B6-D459-4FF8-9AF6-5FD7D20222A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C52900A8-D9E5-4487-BD0A-8F33B265A9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C52900A8-D9E5-4487-BD0A-8F33B265A9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C52900A8-D9E5-4487-BD0A-8F33B265A9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259574B6-D459-4FF8-9AF6-5FD7D20222A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
