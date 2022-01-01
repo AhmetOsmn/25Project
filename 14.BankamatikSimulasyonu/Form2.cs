@@ -85,7 +85,10 @@ namespace _14.BankamatikSimulasyonu
 
         private void buttonHareketlerim_Click(object sender, EventArgs e)
         {
-            //Eklenecek
+            
+            Form4 form4 = new Form4();
+            form4.hesap = labelHesapNo.Text;
+            form4.Show();
         }
     }
 }
