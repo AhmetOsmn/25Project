@@ -57,5 +57,5 @@
 
 ## 14. Bankamatik Simülasyonu
 ---
-![14 BankamatikSimulasyonu](https://user-images.githubusercontent.com/44196434/147842120-b99a6d89-f31b-43d6-8b0f-943289cddadd.png)
+![14 BankamatikSimulasyonu](https://user-images.githubusercontent.com/44196434/147860856-f610533c-29d4-4425-a700-2cd7df73c8af.png)
 
