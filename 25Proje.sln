@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.EtutDersKayitSistemi", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.VeritabaniYedekTablosuOlusturma", "16.VeritabaniYedekTablosuOlusturma\16.VeritabaniYedekTablosuOlusturma.csproj", "{ED22F870-27DB-4732-AF0A-DBAF234BBB78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.BiletRezervasyonSistemi", "17.BiletRezervasyonSistemi\17.BiletRezervasyonSistemi.csproj", "{DA1119AB-A05C-4330-B944-7189ECABBB25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ED22F870-27DB-4732-AF0A-DBAF234BBB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED22F870-27DB-4732-AF0A-DBAF234BBB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED22F870-27DB-4732-AF0A-DBAF234BBB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1119AB-A05C-4330-B944-7189ECABBB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1119AB-A05C-4330-B944-7189ECABBB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1119AB-A05C-4330-B944-7189ECABBB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1119AB-A05C-4330-B944-7189ECABBB25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
