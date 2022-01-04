@@ -67,7 +67,7 @@
 ---
 ![16 VeritabaniYedekTablosuOlusturma](https://user-images.githubusercontent.com/44196434/147953620-abd23449-62c8-461b-8fff-98ae38ec8ab9.png)
 
-## 17. Otobüs Bilet Rezervasyon Sistemi
+## [17. Otobüs Bilet Rezervasyon Sistemi](https://github.com/AhmetOsmn/25Project/tree/master/17.BiletRezervasyonSistemi)
 ---
 ![17 BiletRezervasyonSistemi](https://user-images.githubusercontent.com/44196434/148082114-4fa44eac-466f-40f1-94f1-468726ebd96f.png)
 
