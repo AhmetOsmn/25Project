@@ -70,3 +70,8 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![17 BiletRezervasyonSistemi](https://user-images.githubusercontent.com/44196434/148082114-4fa44eac-466f-40f1-94f1-468726ebd96f.png)
 
+## [18. Akaryakıt Takit Sistemi](https://github.com/AhmetOsmn/25Project/tree/master/18.AkaryakitStokTakipSistemi)
+---
+![18 AkaryakitStokTakipSistemi](https://user-images.githubusercontent.com/44196434/148422375-6d47fbf5-ce3e-474e-a7cd-3884ba5efe7b.png)
+
+
