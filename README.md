@@ -74,4 +74,8 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![18 AkaryakitStokTakipSistemi](https://user-images.githubusercontent.com/44196434/148422375-6d47fbf5-ce3e-474e-a7cd-3884ba5efe7b.png)
 
+## [19. Resim Üzerine Yazı Yazmak](https://github.com/AhmetOsmn/25Project/tree/master/19.ResimUzerineYaziYazmak)
+---
+![19 ResimUzerineYaziYazmak](https://user-images.githubusercontent.com/44196434/148555846-d4a74477-17f7-4658-b2e4-42771a491785.png)
+
 
