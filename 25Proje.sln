@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.BiletRezervasyonSistemi"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.AkaryakitStokTakipSistemi", "18.AkaryakitStokTakipSistemi\18.AkaryakitStokTakipSistemi.csproj", "{A2ED1378-DAE6-4C86-9B71-7BD30D6CAC1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.ResimUzerineYaziYazmak", "19.ResimUzerineYaziYazmak\19.ResimUzerineYaziYazmak.csproj", "{F20DE4AF-5E28-42EC-A836-DC9CDB6CC672}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A2ED1378-DAE6-4C86-9B71-7BD30D6CAC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2ED1378-DAE6-4C86-9B71-7BD30D6CAC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2ED1378-DAE6-4C86-9B71-7BD30D6CAC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20DE4AF-5E28-42EC-A836-DC9CDB6CC672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20DE4AF-5E28-42EC-A836-DC9CDB6CC672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20DE4AF-5E28-42EC-A836-DC9CDB6CC672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20DE4AF-5E28-42EC-A836-DC9CDB6CC672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
