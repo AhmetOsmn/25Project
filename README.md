@@ -78,4 +78,8 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![19 ResimUzerineYaziYazmak](https://user-images.githubusercontent.com/44196434/148555846-d4a74477-17f7-4658-b2e4-42771a491785.png)
 
+## [20. Exceli DB Gibi Kullanmak](https://github.com/AhmetOsmn/25Project/tree/master/20.ExcelIslemleri)
+---
+![20 ExcelIslemleri](https://user-images.githubusercontent.com/44196434/148575886-09cbbd3c-a305-453f-b26c-47534759b2a4.png)
+
 
