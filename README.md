@@ -94,6 +94,9 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![23 ListIleOgrenciKaydetme](https://user-images.githubusercontent.com/44196434/148688706-528bff00-792f-44a0-9604-9c1908824a53.png)
 
+## [24. OOP + Database Kütüphane Uygulaması ](https://github.com/AhmetOsmn/25Project/tree/master/24.OOP%2BDatabase)
+---
+![24 OOP+Database](https://user-images.githubusercontent.com/44196434/148690356-91c673c9-b9e1-47dd-b02b-1ab3bcd7104e.png)
 
 
 
