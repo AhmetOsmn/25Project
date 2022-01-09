@@ -1,6 +1,5 @@
 # 25Proje
-
-Murat Yücedağ ile 25 Adet Windows Form Projesi
+![25ProjeSertifikasi](https://user-images.githubusercontent.com/44196434/148690789-3e7dd4aa-996c-42f7-a1cd-b064bf554976.jpg)
 
 ## [1. Not Ekleme Sistemi](https://github.com/AhmetOsmn/25Project/tree/master/01.NotKayitSistemi)
 ---
@@ -97,6 +96,8 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ## [24. OOP + Database Kütüphane Uygulaması ](https://github.com/AhmetOsmn/25Project/tree/master/24.OOP%2BDatabase)
 ---
 ![24 OOP+Database](https://user-images.githubusercontent.com/44196434/148690356-91c673c9-b9e1-47dd-b02b-1ab3bcd7104e.png)
+
+## [25. Eğitim Sonu](https://github.com/AhmetOsmn/25Project/blob/master/25ProjeSertifikasi.pdf)
 
 
 
