@@ -90,6 +90,11 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![22 RSSKullanimi](https://user-images.githubusercontent.com/44196434/148661837-5f8830d5-85a3-47b4-889e-663f4d14c237.png)
 
+## [23. List Kullanımı ](https://github.com/AhmetOsmn/25Project/tree/master/23.ListIleOgrenciKaydetme)
+---
+![23 ListIleOgrenciKaydetme](https://user-images.githubusercontent.com/44196434/148688706-528bff00-792f-44a0-9604-9c1908824a53.png)
+
+
 
 
 
