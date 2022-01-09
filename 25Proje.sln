@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.RSSKullanimi", "22.RSSKu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.PastahaneUrunMaliyetlendirme", "21.PastahaneUrunMaliyetlendirme\21.PastahaneUrunMaliyetlendirme.csproj", "{738F15A0-FCC3-4FF0-84C5-4A421FDB4F02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.ListIleOgrenciKaydetme", "23.ListIleOgrenciKaydetme\23.ListIleOgrenciKaydetme.csproj", "{67B6F9B8-DD17-40C4-AE09-A3D52476C765}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{738F15A0-FCC3-4FF0-84C5-4A421FDB4F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{738F15A0-FCC3-4FF0-84C5-4A421FDB4F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{738F15A0-FCC3-4FF0-84C5-4A421FDB4F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B6F9B8-DD17-40C4-AE09-A3D52476C765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B6F9B8-DD17-40C4-AE09-A3D52476C765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B6F9B8-DD17-40C4-AE09-A3D52476C765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B6F9B8-DD17-40C4-AE09-A3D52476C765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
