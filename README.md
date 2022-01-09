@@ -82,4 +82,10 @@ Murat Yücedağ ile 25 Adet Windows Form Projesi
 ---
 ![20 ExcelIslemleri](https://user-images.githubusercontent.com/44196434/148575886-09cbbd3c-a305-453f-b26c-47534759b2a4.png)
 
+## [22. RSS Kullanımı ](https://github.com/AhmetOsmn/25Project/tree/master/22.RSSKullanimi)
+---
+![22 RSSKullanimi](https://user-images.githubusercontent.com/44196434/148661837-5f8830d5-85a3-47b4-889e-663f4d14c237.png)
+
+
+
 
